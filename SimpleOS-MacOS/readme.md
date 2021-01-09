@@ -1,3 +1,5 @@
+This simple operating system contains a storage system and is able to run the viable script commands concurrently (Round Robin - with a quanta of 2 commands).
+
 To run
 
 `./mykernel`
